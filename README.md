@@ -1,2 +1,2 @@
 # myApplicacations
-besst practices of current technilotechnology
+best practices of current technilotechnology
